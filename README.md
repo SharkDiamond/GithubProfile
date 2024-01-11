@@ -1,7 +1,11 @@
  # 💫 About Me:
-Ingeniero de sistema con mas de 3 anos de experiencia<br>Manejo de servidores linux LPIC-1<br>Administracion de redes de internet<br>Programador de back-end con node.js y golang
+I am a passionate Fullstack Developer with outstanding experience in developing applications using cutting-edge technologies. My expertise lies in crafting robust and efficient solutions through the utilization of React.js, Node.js (Express), Nest.js, and Golang. My skills extend to both SQL and NoSQL databases, enabling me to design effective and scalable data storage systems.
 
+Beyond my development experience, I possess advanced skills in Linux server administration, supported by the "LPIC-1" certification. My proficiency in orchestrating containers with Docker enhances my ability to implement and maintain efficient development environments.
 
+My expertise includes intermediate knowledge in internet networks and expert handling of monitoring tools such as Grafana, along with its plugins like Grafana Loki. My versatility is reflected in my broad knowledge of other programming languages, including Java, PHP, Python, and Golang, allowing me to quickly adapt to diverse technological environments.
+
+Additionally, I have strong skills in data analysis, demonstrated through my proficiency in Excel and Power BI.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gabogabrielarispe/) 
 
